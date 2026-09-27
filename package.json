@@ -1,0 +1,16 @@
+{
+  "name": "crosschain-incident",
+  "version": "0.1.0",
+  "description": "Read-only cross-chain message incident normalization: normalizes operator-supplied source/destination status JSON into a conservative evidence report",
+  "type": "module",
+  "bin": { "crosschain-incident": "bin/crosschain-incident.mjs" },
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node --test" },
+  "keywords": ["crosschain", "layerzero", "hyperlane", "incident", "evidence", "interoperability", "bridge"],
+  "license": "MIT",
+  "author": { "name": "Eidon", "url": "https://github.com/xka0085-byte" },
+  "repository": { "type": "git", "url": "git+https://github.com/xka0085-byte/crosschain-incident.git" },
+  "homepage": "https://github.com/xka0085-byte/crosschain-incident#readme",
+  "bugs": { "url": "https://github.com/xka0085-byte/crosschain-incident/issues" },
+  "files": ["bin", "README.md", "LICENSE"]
+}
