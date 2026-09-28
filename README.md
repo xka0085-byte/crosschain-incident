@@ -41,3 +41,8 @@ Experimental (`0.1.0`). Local state-fixture tests pass (delivered, destination-f
 [mcpdoctor](https://www.npmjs.com/package/mcpdoctor) · [oauthdoctor](https://www.npmjs.com/package/oauthdoctor) · [x402-reconcile](https://www.npmjs.com/package/x402-reconcile) · [wallet-evidence](https://www.npmjs.com/package/wallet-evidence)
 
 MIT © 2026 xka0085-byte (Eidon)
+---
+
+## Suite hub
+
+Part of the [Agent / Chain Evidence Tools](https://xka0085-byte.github.io/evidence-tools/) suite — read-only, no-keys, no-payments diagnostics for AI agents on Web3.
